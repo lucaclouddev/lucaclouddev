@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I'm currently working on my main project CleanGuard, which is a multi-bot for server security and cleanliness.
+I’m currently working on my main project, Analytica, a bot for monitoring community engagement.
 
 
 
